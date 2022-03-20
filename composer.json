@@ -1,5 +1,5 @@
 {
-  "name": "sumantablog/laravel-superadmin",
+  "name": "mymuns/laravel-superadmin",
   "description": "Laravel Admin Panel With Auth, Roles, Permission, Dynamic CRUD, Form, Layout and so many Extention",
   "type": "library",
   "keywords": ["laravel", "admin", "grid", "form", "admin-panel", "CRUD Gerenator", "layouts"],
